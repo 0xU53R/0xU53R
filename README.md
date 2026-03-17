@@ -71,7 +71,3 @@ MariaDB | Microsoft SQL Server
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xU53R\&theme=transparent\&hide_border=true\&layout=compact\&bg_color=00000000)
 
 ---
-
-## 🐍 Activity
-
-![snake gif](https://github.com/0xU53R/0xU53R/blob/output/github-contribution-grid-snake.svg)
