@@ -42,8 +42,8 @@ I'm a **Cybersecurity Analyst & Malware Analyst** passionate about protecting sy
 
 ## 📫 Contact Me
 - Email: `Loading`  
-- LinkedIn: [0xU53R](https://www.linkedin.com/in/0xU53R)  
-- Twitter: [@0xU53R](https://twitter.com/0xU53R)
+- LinkedIn: [0xU53R](https://www.linkedin.com/in/mulenda-mapesho)  
+- Twitter: [@0xU53R](https://twitter.com/u53r09)
 
 ---
 
