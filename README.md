@@ -104,7 +104,7 @@ ACTIVE | WATCHING | HUNTING
 ---
 ```bash
 
-                                                               "If it's running, I'll find it."
+                                               "If it's running, I'll find it."
 
 ```
 
