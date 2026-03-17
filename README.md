@@ -4,8 +4,7 @@
 I'm a **Cybersecurity Analyst & Malware Analyst** passionate about protecting systems and investigating threats. I specialize in **threat analysis, malware reverse engineering, and incident response**.  
 
 - 🌱 Currently learning: **Advanced malware analysis, threat intelligence, and cloud security**  
-- 💻 Professionally working on: Cyber defense projects and malware investigation  
-- ⚡ Fun fact: I love dissecting malware in safe virtual environments and sharing insights with the community  
+- 💻 Professionally working on: Cyber defense projects and malware investigation   
 
 ---
 
@@ -22,8 +21,7 @@ I'm a **Cybersecurity Analyst & Malware Analyst** passionate about protecting sy
 ## 💼 Experience
 **Cybersecurity Analyst** – Security Operations  
 - Monitored networks for suspicious activity and responded to incidents.  
-- Conducted vulnerability assessments and penetration testing.  
-- Collaborated with teams to improve incident response strategies.  
+- Conducted vulnerability assessments and penetration testing.    
 
 **Malware Analyst** – Threat Intelligence  
 - Reverse engineered malware samples to understand attack vectors.  
@@ -32,12 +30,6 @@ I'm a **Cybersecurity Analyst & Malware Analyst** passionate about protecting sy
 
 ---
 
-## 📂 Projects
-| Project | Description | Link |
-|---------|------------|------|
-| Malware Sample Analysis | Detailed analysis of various malware families | [View](https://github.com/0xU53R/malware-analysis) |
-| Threat Detection Scripts | Automation tools for detecting suspicious network activity | [View](https://github.com/0xU53R/threat-detection) |
-| Open Source Security Contributions | Contributed tools and scripts to improve cybersecurity workflows | [View](https://github.com/0xU53R?tab=repositories) |
 
 ---
 
