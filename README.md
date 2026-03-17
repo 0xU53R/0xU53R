@@ -26,7 +26,7 @@ ACTIVE | WATCHING | HUNTING
 
 ┌──(root㉿0xU53R)-[~/profile]
 └─$ motto
-                                                       "If it's running, I'll find it."
+                                              "If it's running, I'll find it."
 ```
 
 ---
