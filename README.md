@@ -45,22 +45,53 @@ ACTIVE | WATCHING | HUNTING
 
 ## 💻 Tech Stack
 
-```bash
-Languages:
-Python | JavaScript | Java | C | C++ | Rust | Go | PHP
+### ⚔️ Languages
 
-Web:
-HTML | CSS | React Native | Flask
+![Assembly](https://img.shields.io/badge/ASM-0d1117?style=for-the-badge\&logoColor=red)
+![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge\&logo=python\&logoColor=red)
+![JavaScript](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=red)
+![Java](https://img.shields.io/badge/java-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=red)
+![C](https://img.shields.io/badge/c-0d1117?style=for-the-badge\&logo=c\&logoColor=red)
+![C++](https://img.shields.io/badge/c++-0d1117?style=for-the-badge\&logo=c%2B%2B\&logoColor=red)
+![Rust](https://img.shields.io/badge/rust-0d1117?style=for-the-badge\&logo=rust\&logoColor=red)
+![Go](https://img.shields.io/badge/go-0d1117?style=for-the-badge\&logo=go\&logoColor=red)
+![PHP](https://img.shields.io/badge/php-0d1117?style=for-the-badge\&logo=php\&logoColor=red)
 
-Systems:
-Bash | Batch | SQL | Windows Terminal
+---
 
-Infrastructure:
-Apache | Nginx | Cisco | Google Cloud
+### 🌐 Web & Frameworks
 
-Databases:
-MariaDB | Microsoft SQL Server
-```
+![HTML5](https://img.shields.io/badge/html5-0d1117?style=for-the-badge\&logo=html5\&logoColor=red)
+![CSS3](https://img.shields.io/badge/css3-0d1117?style=for-the-badge\&logo=css3\&logoColor=red)
+![React Native](https://img.shields.io/badge/react_native-0d1117?style=for-the-badge\&logo=react\&logoColor=red)
+![Flask](https://img.shields.io/badge/flask-0d1117?style=for-the-badge\&logo=flask\&logoColor=red)
+![Firebase](https://img.shields.io/badge/firebase-0d1117?style=for-the-badge\&logo=firebase\&logoColor=red)
+
+---
+
+### 🛠️ Systems & Scripting
+
+![Bash](https://img.shields.io/badge/bash-0d1117?style=for-the-badge\&logo=gnu-bash\&logoColor=red)
+![Batch](https://img.shields.io/badge/batch-0d1117?style=for-the-badge\&logo=windows-terminal\&logoColor=red)
+![SQL](https://img.shields.io/badge/sql-0d1117?style=for-the-badge\&logo=postgresql\&logoColor=red)
+![Windows Terminal](https://img.shields.io/badge/terminal-0d1117?style=for-the-badge\&logo=windows-terminal\&logoColor=red)
+
+---
+
+### 🗄️ Databases
+
+![MariaDB](https://img.shields.io/badge/mariadb-0d1117?style=for-the-badge\&logo=mariadb\&logoColor=red)
+![Microsoft SQL Server](https://img.shields.io/badge/sql_server-0d1117?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=red)
+
+---
+
+### ☁️ Infrastructure & Networking
+
+![Apache](https://img.shields.io/badge/apache-0d1117?style=for-the-badge\&logo=apache\&logoColor=red)
+![Nginx](https://img.shields.io/badge/nginx-0d1117?style=for-the-badge\&logo=nginx\&logoColor=red)
+![Google Cloud](https://img.shields.io/badge/google_cloud-0d1117?style=for-the-badge\&logo=google-cloud\&logoColor=red)
+![Cisco](https://img.shields.io/badge/cisco-0d1117?style=for-the-badge\&logo=cisco\&logoColor=red)
+![Fortinet](https://img.shields.io/badge/fortinet-0d1117?style=for-the-badge\&logo=fortinet\&logoColor=red)
 
 ---
 
