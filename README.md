@@ -1,50 +1,23 @@
 # 👋 Hi, I'm 0xU53R
 
-## 🔹 About Me
-I'm a **Cybersecurity Analyst & Malware Analyst** passionate about protecting systems and investigating threats. I specialize in **threat analysis, malware reverse engineering, and incident response**.  
-
-- 🌱 Currently learning: **Advanced malware analysis, threat intelligence, and cloud security**  
-- 💻 Professionally working on: Cyber defense projects and malware investigation   
-
----
-
-## 🛠️ Skills
-| Cybersecurity | Malware Analysis | Tools & Platforms |
-|---------------|----------------|-----------------|
-| Threat Hunting | Reverse Engineering | Wireshark, Ghidra, IDA Pro |
-| Vulnerability Assessment | Static & Dynamic Analysis | Kali Linux, Metasploit, Burp Suite |
-| SIEM Monitoring | Malware Forensics | Splunk, ELK Stack, VirtualBox/VMware |
-| Network Security | Malware Detection Automation | Python, PowerShell, Bash |
-
----
-
-## 💼 Experience
-**Cybersecurity Analyst** – Security Operations  
-- Monitored networks for suspicious activity and responded to incidents.  
-- Conducted vulnerability assessments and penetration testing.    
-
-**Malware Analyst** – Threat Intelligence  
-- Reverse engineered malware samples to understand attack vectors.  
-- Developed automated tools for malware detection.  
-- Produced reports and shared actionable intelligence with stakeholders.  
-
----
+# 💫 About Me:
+Cyber Security Analyst || Malware Analyst<br><br>I don’t just analyze malware—I dismantle it.<br>I dig through obfuscation, trace hidden behavior, and expose what was meant to stay buried.<br><br>💀 Break it | 🧩 Deconstruct | 🔍 Trace it | 🛑 Neutralize it<br><br>#⚔️ If it’s running, I’ll find it.<br>
 
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mapesho Mulenda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MapeshoMulenda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mulendamapesho) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/u53r09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Loading) 
 
-## 📈 GitHub Stats
-![0xU53R's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xU53R&show_icons=true&theme=dark)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0xU53R&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=0xU53R&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xU53R&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xU53R&layout=compact&theme=dark)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0xU53R&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 📫 Contact Me
-- Email: `Loading`  
-- LinkedIn: [0xU53R](https://www.linkedin.com/in/mulenda-mapesho)  
-- Twitter: [@0xU53R](https://twitter.com/u53r09)
-
----
-
-⭐ If you like my work, feel free to **follow me**!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
