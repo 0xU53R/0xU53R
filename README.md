@@ -26,7 +26,7 @@ ACTIVE | WATCHING | HUNTING
 
 ┌──(root㉿0xU53R)-[~/profile]
 └─$ motto
-                                              "If it's running, I'll find it."
+"If it's running, I'll find it."
 ```
 
 ---
@@ -102,3 +102,9 @@ ACTIVE | WATCHING | HUNTING
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xU53R\&theme=transparent\&hide_border=true\&layout=compact\&bg_color=00000000)
 
 ---
+```bash
+
+                      "If it's running, I'll find it."
+
+```
+
